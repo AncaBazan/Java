@@ -1,0 +1,27 @@
+[
+  {
+    "numarInmatriculare": "B-123-ABC",
+    "marca": "Audi",
+    "nrPasageri": 4
+  },
+  {
+    "numarInmatriculare": "B-456-DEF",
+    "marca": "Mercedes",
+    "nrPasageri": 5
+  },
+  {
+    "numarInmatriculare": "B-789-GHI",
+    "marca": "Audi",
+    "nrPasageri": 3
+  },
+  {
+    "numarInmatriculare": "B-101-JKL",
+    "marca": "Ford",
+    "nrPasageri": 5
+  },
+  {
+    "numarInmatriculare": "B-202-MNO",
+    "marca": "Ford",
+    "nrPasageri": 4
+  }
+]
