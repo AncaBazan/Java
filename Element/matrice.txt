@@ -1,0 +1,2 @@
+Element{indexLinie=3, indexColoana=3, valoareElem=4.0}
+Element{indexLinie=1, indexColoana=1, valoareElem=1.0}
