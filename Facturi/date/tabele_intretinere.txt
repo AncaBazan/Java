@@ -1,0 +1,5 @@
+Număr apartament, Suprafata, Persoane, Cheltuieli Suprafata, Cheltuieli Persoane, Cheltuieli Apartament, Total de plata 
+4 100 3 45000 3300 49400
+3 75 2 33750 2200 37050
+2 50 1 22500 1100 24700
+1 10 1 4500 1100 5600

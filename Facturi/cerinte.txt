@@ -1,0 +1,57 @@
+/*
+Fie datele de intrare (in directorul date):
+
+a) intretinere_apartamente.txt: lista de apartamente (numar apartament - întreg, suprafata - întreg, numar persoane - întreg) - fișier text de forma:
+1,100,1
+2,50,1
+3,75,2
+...
+
+b) intretinere_facturi.json: fișier text în format JSON cu următoarea structură:
+
+[ //asta -> vector de obiecte tip json || mai intai creem vectorul si dupa extragere
+  {
+    "denumire": "Apa calda",
+    "repartizare": "persoane",
+    "valoare": 800
+  },
+  {
+    "denumire": "Caldura",
+    "repartizare": "suprafata",
+    "valoare": 300
+  },
+  ...
+]
+
+Să se scrie o aplicație Java care să îndeplinească următoarele cerințe:
+
+1) Să se afișeze la consolă numărul apartamentului cu suprafața maximă
+Punctaj: 1 punct.
+Criteriu de acordare a punctajului: afișarea corectă la consolă
+
+2) Să se afișeze la consolă numărul total de persoane care locuiesc în imobil.
+Punctaj: 1 punct.
+Criteriu de acordare a punctajului: afișarea corectă la consolă
+
+3) Să se afișeze la consolă valoarea totală a facturilor pe fiecare tip de repartizare.
+Punctaj: 1 punct.
+Criteriu de acordare a punctajului: afișarea corectă la consolă
+
+
+
+4) Să se scrie în fișierul text date\tabel_intretinere.txt tabelul de intreținere în forma:
+
+       Număr apartament, Suprafata, Persoane, Cheltuieli Suprafata, Cheltuieli Persoane, Cheltuieli Apartament, Total de plata
+        ...
+Tabelul trebuie să fie sortat în funcție de numărul apartamentului.
+
+5) Să implementeze funcționalitățile de server și client TCP/IP și să se execute următorul scenariu:
+- componenta client trimite serverului un număr de apartament
+- componenta server va întoarce clientului valoarea de plată defalcată pe cele trei tipuri cheltuieli pentru apartamentul respectiv.
+Serverul se va opri după servirea unei cereri.
+
+Punctaj:
+1 punct - afișarea la consolă de către server a numărului apartamentului
+1 punct - afișarea la consolă de către client a celor trei valori calculate
+Criteriu de acordare a punctajului: afișarea corectă la consolă
+*/
