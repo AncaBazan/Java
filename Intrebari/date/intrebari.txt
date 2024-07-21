@@ -1,0 +1,10 @@
+1,In ce an a inceput Primul Război Mondial?,1914,1
+2,Cine a fost primul presedinte al Statelor Unite?,George Washington,1
+3,In ce an a cazut Constantinopolul?, 1453,2
+4,Cine a descoperit America?, Cristofor Columb,1
+5,Când a fost semnată Declarația de Independență a SUA?,1776,1
+6,Cine a fost conducătorul Uniunii Sovietice in timpul celui de-al Doilea Razboi Mondial?,1914,1
+7,In ce an a inceput Revoluția Franceză?,1789,1
+8,Cine a fost primul imparat al Romei?,Augustus,2
+9,In ce an a fost bătălia de la Waterloo?,1815,1
+10,Cine a fost regina Angliei in timpul Epocii Victoriene?,Regina Victoria,1
