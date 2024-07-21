@@ -1,0 +1,7 @@
+POO : 2
+Geografie : 1
+Istorie : 1
+SDD : 2
+Romana : 3
+Matematica : 3
+Engleza : 1
