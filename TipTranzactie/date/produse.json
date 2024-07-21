@@ -1,0 +1,58 @@
+[
+  {
+    "denumire" : "oua",
+    "codProdus": 1001,
+    "cantitate": 50,
+    "tip": "intrare",
+    "pret": 15.99
+  },
+  {
+    "denumire" : "mere",
+    "codProdus": 1002,
+    "cantitate": 30,
+    "tip": "intrare",
+    "pret": 25.99
+  },
+  {
+    "denumire" : "alune",
+    "codProdus": 1003,
+    "cantitate": 20,
+    "tip": "iesire",
+    "pret": 10.99
+  },
+  {
+    "denumire" : "branzica",
+    "codProdus": 1004,
+    "cantitate": 10,
+    "tip": "intrare",
+    "pret": 35.99
+  },
+  {
+    "denumire" : "prune",
+    "codProdus": 1005,
+    "cantitate": 60,
+    "tip": "iesire",
+    "pret": 5.99
+  },
+  {
+    "denumire" : "laptic",
+    "codProdus": 1006,
+    "cantitate": 40,
+    "tip": "intrare",
+    "pret": 12.99
+  },
+  {
+    "denumire" : "miere",
+    "codProdus": 1007,
+    "cantitate": 70,
+    "tip": "iesire",
+    "pret": 9.99
+  },
+  {
+    "denumire" : "cereale",
+    "codProdus": 1008,
+    "cantitate": 80,
+    "tip": "intrare",
+    "pret": 20.99
+  }
+]
