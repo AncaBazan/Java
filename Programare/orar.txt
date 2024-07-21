@@ -1,0 +1,10 @@
+Matematica,1,3,CURS,IT
+Cibe,2,4,SEMINAR,info
+Romana,3,2,CURS,standard
+Engleza,4,4,SEMINAR,avansat
+Matematica,1,3,SEMINAR,IT
+Cibe,2,4,SEMINAR,info
+Romana,3,2,CURS,standard
+Engleza,4,4,SEMINAR,avansat
+Matematica,1,3,SEMINAR,IT
+Engleza,4,4,CURS,avansat
